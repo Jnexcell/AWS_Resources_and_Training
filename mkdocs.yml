@@ -1,6 +1,10 @@
-site_name: https://Jnexcell.github.io/AWS_Resources_and_Training/
+site_name: https://jnexcell.github.io/AWS_Resources_and_Training/
 nav:
     - Home: index.md
-    - About: about.md
+    - SysOps:
+      - Monitoring_and_Reporting:
+        - 'AWS_Config': 'aws_config.md'
+      - Deployment_and_provisioning:
+        - 'Deploying_EC2': 'Deploying_ec2.md'
 theme:
   name: 'ivory'
