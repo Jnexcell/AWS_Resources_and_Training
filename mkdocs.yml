@@ -1,0 +1,6 @@
+site_name: AWS Resources and Training
+nav:
+    - Home: index.md
+    - About: about.md
+theme:
+  name: 'ivory'
